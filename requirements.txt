@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+matlplotlib
+seaborn
+LabelEncoder
+scikit-learn
+joblib
